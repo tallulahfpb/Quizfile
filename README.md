@@ -9,4 +9,4 @@
 ## What does my chart show?
 > My chart shows that the vast majority of those who took the survey do not think it is rude to say more than a few words.
 
-![Chart](/assets/image/datawrapper.dwcdn.net/w2veG/1/)
+![Chart](/assets/image/w2veG-replies-to-generally-speaking-is-it-rude-to-say-more-than-a-few-words-to-the-stranger-sitting-next-to-you-on-a-plane-.png)
